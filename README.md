@@ -11,16 +11,16 @@ This project demonstrates a 3-reel slot machine built in Excel, with both theore
 - Results reporting: RTP, hit rate, volatility
 
 ## Files
-- `slot_model.xlsx` – main Excel file
-- `WillMorris_SlotModelPortfolio.pdf` – portfolio write-up with screenshots
+- `slot model.xlsx` – main Excel file
+- `slot machine.docx` – portfolio write-up with screenshots
 - `README.md` – this document
 
 ## Results Snapshot
 | Metric | Theoretical | Simulated (10k spins) |
 |--------|-------------|------------------------|
-| RTP    | 96.0%       | 95.8%                  |
-| Hit Rate | 28.5%     | 28.1%                  |
-| Volatility | –       | 1.92                   |
+| RTP    | 95.58%       | 93.8%                  |
+| Hit Rate | 27.68%     | 27.97%                  |
+| Volatility | –       | 4.166                   |
 
 ## Next Steps
 - Add scatters / wilds
