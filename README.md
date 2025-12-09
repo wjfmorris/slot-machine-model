@@ -1,4 +1,4 @@
-# Slot Machine Math Model 🎰
+# Slot Machine Math Model 
 
 This project demonstrates a 3-reel slot machine built in Excel, with both theoretical and simulated analysis of RTP, hit rate, and volatility.  
 
